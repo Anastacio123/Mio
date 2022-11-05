@@ -1,0 +1,20 @@
+
+h1{
+    font-size:  50px;
+    background-color: rgb(255, 86, 86);
+    color: seagreen;
+}
+h2{
+    color:rgba(255, 248, 89, 1);
+}
+h3{
+    color: hsla(155, 95%, 56% , 1);
+}lightness
+p{
+    font-size: 20px;
+    color: lightskyblue;
+}
+body{
+    background-color: rgb(198, 235, 193);
+    color: white;
+}
